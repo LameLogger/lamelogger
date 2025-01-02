@@ -98,4 +98,4 @@ This portfolio is for educational and professional purposes. All projects and ac
 ---
 
 Thank you for visiting my portfolio! If you have any questions or would like to collaborate, don't hesitate to reach out.
-
+![thank you](https://www.shutterstock.com/shutterstock/videos/1106780947/preview/stock-footage-animation-of-thank-you-text-over-mesh-network-of-connection-and-programming-language-digitally.webm)
