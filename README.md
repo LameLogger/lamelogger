@@ -98,4 +98,6 @@ This portfolio is for educational and professional purposes. All projects and ac
 ---
 
 Thank you for visiting my portfolio! If you have any questions or would like to collaborate, don't hesitate to reach out.
+
+
 ![thank you](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm03d3Buem50ZHB1cW14MzBpN2V5MTNhYXkxc29hbnEyN2h4OXVzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/200.webp)
